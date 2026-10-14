@@ -258,7 +258,7 @@
 
 # &#x20;  ```bash
 
-# &#x20;  git clone <YOUR-REPOSITORY-URL>
+# &#x20;  git clone https://github.com/kismart254/household-energy-monitoring-and-load-management
 
 # &#x20;  ```
 
@@ -270,7 +270,7 @@
 
 # &#x20;  ```bash
 
-# &#x20;  cd <YOUR-REPOSITORY-NAME>
+# &#x20;  cd household-energy-monitoring-and-load-management
 
 # &#x20;  ```
 
